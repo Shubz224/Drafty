@@ -18,7 +18,7 @@ const Hero = () => {
           {/* Resume Link */}
           <div className="flex justify-center">
             <a
-              href="public/Resources/shubhamNikamResume.pdf"
+              href="https://drive.google.com/file/d/1xMPtSOqCiy3ci2jzO_oi_DQdnVWovm-u/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center space-x-2 px-4 md:px-6 py-2 md:py-3 bg-gray-900 text-white rounded-full hover:bg-gray-800 transition-all duration-300 hover:scale-105 transform text-sm md:text-base"
